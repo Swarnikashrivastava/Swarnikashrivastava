@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swarnika shrivastava
 - 🌱 I’m currently learning Java / Spring Boot/Power BI
 - 💞️ I’m looking to collaborate in Software development/ web development 
-- 📫 How to reach me: swarnikashrivastava@gmail.com
+- 📫 How to reach me: swarnikashrivastava1@gmail.com
 - ⚡ Fun fact: I love to solve coding questions
 
 <!---
